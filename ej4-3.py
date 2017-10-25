@@ -1,5 +1,5 @@
 # -*- coding: cp1252 -*-
-"""DAVID MUÑOZ BARRAS - 1º DAW - PRACTICA4 - EJERCICIO 1
+"""DAVID MUÑOZ BARRAS - 1º DAW - PRACTICA 4 - EJERCICIO 3
 Escriu un programa que demani 2 nombres i escrigui la suma de sencers des del primer nombre
 fins al segon."""
 
