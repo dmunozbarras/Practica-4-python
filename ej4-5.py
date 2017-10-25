@@ -15,4 +15,4 @@ for i in range(altura):
 
     for l in range(ancho):
         print "*",
-    print "\n"
+    print ""
